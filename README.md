@@ -2,8 +2,7 @@
 https://mk-google-clone.netlify.app/
 
 ## Getting Started
-<img width="1440" alt="Screenshot 2022-03-05 at 8 10 19 PM" src="https://user-images.githubusercontent.com/38829097/156888058-95b413c1-0e7a-4b6a-83e2-fa4f8a47b9de.png">
+![WhatsApp Image 2023-02-05 at 07 16 59](https://user-images.githubusercontent.com/100966658/216827970-afe7b4c5-f1f5-49ce-908f-2ef989496e48.jpg)
+![WhatsApp Image 2023-02-05 at 07 17 26](https://user-images.githubusercontent.com/100966658/216827993-b86132c6-6cfe-467c-ad7c-709bf8af4856.jpg)
 
-
-<img width="1440" alt="Screenshot 2022-03-05 at 8 10 35 PM" src="https://user-images.githubusercontent.com/38829097/156888053-1f0c7089-f2d2-42f5-b453-3e824aaa46a1.png">
 
